@@ -1,4 +1,4 @@
-markdown
+
 # Discover Castilla-La Mancha
 
 ![Banner del Proyecto](mockup-clm.jpg)
