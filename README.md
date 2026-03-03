@@ -1,7 +1,7 @@
 # Discover Castilla-La Mancha
 
 
-![Banner del Proyecto](banner.jpg)
+![Banner del Proyecto](discoverclm.jpg)
 
 ## Visión General
 **Discover Castilla-La Mancha** es una solución tecnológica diseñada para modernizar la promoción turística de la región. La aplicación centraliza la oferta cultural, histórica y natural de las cinco provincias (Toledo, Ciudad Real, Guadalajara, Cuenca y Albacete), conectando a los usuarios con recursos locales de forma intuitiva.
@@ -9,7 +9,7 @@
 ## Interfaz y Flujo de Usuario
 He diseñado una experiencia centrada en el usuario (UX), facilitando el acceso a la información mediante layouts XML responsivos y un menú desplegable (*Navigation Drawer*).
 
-![Mockup de Pantallas](discoverclm.jpg)
+![Mockup de Pantallas](mockup-clm.jpg)
 
 ## Stack Tecnológico
 *   **Lenguaje:** **Kotlin**, elegido por su seguridad en el manejo de nulos y soporte oficial de Android.
