@@ -14,7 +14,7 @@ Aplicación multiplataforma desarrollada como parte del ciclo **DAM**. Su objeti
 ## Interfaz y Flujo de Usuario
 He diseñado una experiencia centrada en el usuario, facilitando el acceso a la información de las 5 provincias.
 
-![Capturas de Pantalla](Mockup Discover Castilla-La Mancha.jpg)
+![Capturas de Pantalla](mockup-clm.jpg)
 
 ## Funcionalidades clave
 * **Autenticación:** Registro e inicio de sesión de usuarios.
