@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#b50c1b"
+    tools:context=".menuProvincias">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnToledo"
+        android:layout_width="306dp"
+        android:layout_height="59dp"
+        android:layout_gravity="center"
+        android:layout_margin="8dp"
+        android:background="#d0b700"
+        android:text="Toledo"
+        android:fontFamily="@font/basteleur_bold"
+        android:textColor="@color/black"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.437" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnCiudadReal"
+        android:layout_width="306dp"
+        android:layout_height="59dp"
+        android:layout_gravity="center"
+        android:layout_margin="8dp"
+        android:background="#d0b700"
+        android:text="Ciudad Real"
+        android:fontFamily="@font/basteleur_bold"
+        android:textColor="@color/black"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.559" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnGuadalajara"
+        android:layout_width="306dp"
+        android:layout_height="59dp"
+        android:layout_gravity="center"
+        android:layout_margin="8dp"
+        android:background="#d0b700"
+        android:text="Guadalajara"
+        android:fontFamily="@font/basteleur_bold"
+        android:textColor="@color/black"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.68" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnCuenca"
+        android:layout_width="306dp"
+        android:layout_height="59dp"
+        android:layout_gravity="center"
+        android:layout_margin="8dp"
+        android:background="#d0b700"
+        android:text="Cuenca"
+        android:fontFamily="@font/basteleur_bold"
+        android:textColor="@color/black"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.802" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnAlbacete"
+        android:layout_width="306dp"
+        android:layout_height="59dp"
+        android:layout_gravity="center"
+        android:layout_margin="8dp"
+        android:background="#d0b700"
+        android:text="Albacete"
+        android:fontFamily="@font/basteleur_bold"
+        android:textColor="@color/black"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.921" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="347dp"
+        android:layout_height="258dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/decisi_n_provincia_sinfondo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="240dp"
+        android:text="¿Qué provincia deseas conocer?"
+        android:fontFamily="@font/basteleur_bold"
+        android:textColor="#d0b700"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.435"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "508789714579",
+    "firebase_url": "https://discover-castilla-la-mancha-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "discover-castilla-la-mancha",
+    "storage_bucket": "discover-castilla-la-mancha.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508789714579:android:5cc930511321d7c4506766",
+        "android_client_info": {
+          "package_name": "com.micheldev.discovercastilla_lamancha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw1EcQOdDVifzGOBIj2g-mY5rJ99PBbsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

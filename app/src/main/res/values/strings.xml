@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Discover Castilla-La Mancha</string>
+    <string name="descubre_castilla_la_mancha">Descubre Castilla-La Mancha</string>
+
+    <string name="desplegableT">Toledo</string>
+    <string name="desplegableCR">Ciudad Real</string>
+    <string name="desplegableG">Guadalajara</string>
+    <string name="desplegableC">Cuenca</string>
+    <string name="desplegableA">Albacete</string>
+    <string name="desplegableForo">Foro</string>
+    <string name="desplegableCierreSesion">Cerrar sesión</string>
+</resources>

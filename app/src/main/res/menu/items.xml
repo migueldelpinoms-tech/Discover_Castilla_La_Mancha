@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/desplegableT"
+        android:title="@string/desplegableT" />
+    <item
+        android:id="@+id/desplegableCR"
+        android:title="@string/desplegableCR" />
+    <item
+        android:id="@+id/desplegableG"
+        android:title="@string/desplegableG" />
+    <item
+        android:id="@+id/desplegableC"
+        android:title="@string/desplegableC" />
+    <item
+        android:id="@+id/desplegableA"
+        android:title="@string/desplegableA" />
+    <item
+        android:id="@+id/desplegableForo"
+        android:title="@string/desplegableForo" />
+    <item
+        android:id="@+id/desplegableCierreSesion"
+        android:title="@string/desplegableCierreSesion"
+        android:icon="@drawable/ic_logout_background"/>
+</menu>
