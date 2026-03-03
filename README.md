@@ -29,4 +29,4 @@ El proyecto sigue el ciclo de vida de desarrollo de software, incluyendo:
 *   **Diagrama de Clases:** Estructura modular que define las relaciones entre provincias, usuarios y servicios de Firebase.
 
 ---
-*Autor: Miguel Del Pino Muelas*
+*Autor: Miguel Del Pino*
