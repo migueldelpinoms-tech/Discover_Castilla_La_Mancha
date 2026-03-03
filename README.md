@@ -1,6 +1,6 @@
 # Discover Castilla-La Mancha
 
-![Banner de la App](banner.jpg)
+![Banner de la App](discoverclm.jpg)
 
 ## Sobre el Proyecto
 Aplicación multiplataforma desarrollada como parte del ciclo **DAM**. Su objetivo es fomentar el turismo en la región mediante una interfaz intuitiva que permite explorar provincias, monumentos y gastronomía.
@@ -14,7 +14,7 @@ Aplicación multiplataforma desarrollada como parte del ciclo **DAM**. Su objeti
 ## Interfaz y Flujo de Usuario
 He diseñado una experiencia centrada en el usuario, facilitando el acceso a la información de las 5 provincias.
 
-![Capturas de Pantalla](mockups.jpg)
+![Capturas de Pantalla](Mockup Discover Castilla-La Mancha.jpg)
 
 ## Funcionalidades clave
 * **Autenticación:** Registro e inicio de sesión de usuarios.
